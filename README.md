@@ -9,6 +9,7 @@ SAM
           ->build_sam.py
           ->data_loaders.py
           ->dataset.py
+          ->test.py
 
 Link : 
 + sam_finetuned.final.pth : https://drive.google.com/file/d/1-d_BEF6VpPnKByyZQpE9SPIUQrFQoKFZ/view?usp=sharing
